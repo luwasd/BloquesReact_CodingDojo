@@ -1,0 +1,44 @@
+.app {
+    width: 950px;
+    background-color: #dddddd;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.topNav {
+    height: 150px;
+    background-color: #6aa84f;
+}
+
+.sideNav {
+    display: inline-block;
+    vertical-align: top;
+    height: 300px;
+    width: 200px;
+    background-color: #6fa8da;
+    margin: 20px 20px 20px 0px;
+}
+
+.main {
+    display: inline-block;
+    min-height: 400px;
+    width: 695px;
+    background-color: #e06666;
+    margin: 20px 0px 0px;
+    padding: 15px;
+}
+
+.sub {
+    display: inline-block;
+    height: 200px;
+    width: 210px;
+    background-color: #ffd966;
+    margin: 5px;
+}
+
+.ad {
+    height: 120px;
+    width: 660px;
+    background-color: #b4d7a6;
+    margin: 5px;
+}
